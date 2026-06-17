@@ -229,10 +229,10 @@ function CalligraphyModal({ open, onClose }: { open: boolean; onClose: () => voi
             {/* Call To Action Lines */}
             <div className="px-7 pt-5 pb-4 text-center border-t" style={{ borderColor: 'rgba(224,164,7,0.12)' }}>
               <p className="text-[13.5px] leading-relaxed font-medium mb-2" style={{ color: '#0F2566' }}>
-                Write beautifully. Gift gracefully. Celebrate specially.*
+                Write beautifully. Gift gracefully. Celebrate specially.
               </p>
               <p className="text-[12px]" style={{ color: 'rgba(224,164,7,0.8)' }}>
-                *Book Your Calligraphy Service Today
+                Book Your Calligraphy Service Today
               </p>
             </div>
 
