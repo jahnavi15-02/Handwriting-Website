@@ -36,7 +36,7 @@ export const PROGRAMS: Program[] = [
     category: 'handwriting',
     tagline: 'Fun, structured improvement that builds a lifelong skill.',
     overview:
-      'A strong foundation for neat, clear, and confident writing. Our Kids Handwriting Course is specially designed for children aged 4 to 6 years who are beginning to write print alphabets. Through fun and guided practice, children learn the right writing habits step by step.',
+      'Our Kids Handwriting Course is specially designed for children aged 4 to 6 years who are beginning to write print alphabets. Through fun and guided practice, children learn the right writing habits step by step.',
     curriculum: [
       { title: 'Writing Readiness', topics: ['Children learn how to sit properly, hold the pencil correctly, and place the book in the right position for comfortable writing.'] },
       { title: 'Basic Stroke Practice', topics: ['They practise standing lines, sleeping lines, curves, slants, and simple shapes to improve pencil control and hand movement.'] },

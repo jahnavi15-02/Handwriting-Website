@@ -353,7 +353,7 @@ function LegibleNeatCard({ onLearnMore }: { onLearnMore: () => void }) {
           <h3 className="font-extrabold text-[18px] leading-tight" style={{ color: '#0F2566', fontFamily: 'Fraunces, Georgia, serif' }}>
             Legible & Neat Handwriting
           </h3>
-          <p className="text-[12px] mt-0.5" style={{ color: 'rgba(11,42,192,0.6)' }}>Adults, students & professionals</p>
+          <p className="text-[12px] mt-0.5" style={{ color: 'rgba(11,42,192,0.6)' }}>Neat, Clear, and Stylish handwriting for academic success.</p>
         </div>
       </div>
 
